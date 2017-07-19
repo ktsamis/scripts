@@ -1,6 +1,6 @@
 from cleverwrap import CleverWrap
 
-"""This script allows you to talk to cleverbot 
+"""This script allows you to talk to cleverbot
 using an already existing APIKEY in the command line"""
 
 cw = CleverWrap("APIKEY")
@@ -11,3 +11,4 @@ while not question == "finished":
     print("The bot says: " + answer)
 
 cw.reset()  # resets the conversation ID and conversation state.
+
