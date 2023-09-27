@@ -1,0 +1,7 @@
+url=http://feeds.bbci.co.uk/news/rss.xml
+url=https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
+url=http://rss.cnn.com/rss/edition_world.rss
+title_color=cyan
+link_color=blue
+summary_color=yellow
+error_color=red
